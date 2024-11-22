@@ -2,7 +2,7 @@
 
 body{
 
-    background-color: #0000FF;
+    background-color: #00e2c4;
     color: black;
     font-family: "bai jamburee", sans-serif;
     display: flex;
@@ -12,26 +12,30 @@ body{
     margin: 0;
 
 }
- 
-button{
 
-     background-color: aliceblue;
-     color: azure;
-     font-family: "bai jamjuree", sans-serif;
+button{
+     
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    font-family: "bai jamjuree", sans-serif;
 }
 
+.passo {
+    display: nome;
 
+}
+ 
+.passo.ativo{
+    display: block;
 
+}
 
+main{
+    text-align: center;
+    max-width: 90%;
 
+}
 
-
-
-
-
-
-
-
-
-
-
+img {
+    max-width: 90%;
+}
